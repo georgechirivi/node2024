@@ -1,0 +1,48 @@
+{
+    "profesores": [
+        {
+            "nombre": "Jorge",
+            "apellido": "Chirivi",
+            "materias": [
+                {
+                    "nombre": "NodeJS desde cero"
+                },
+                {
+                    "nombre": "ReacrJS desde cero"
+                },
+                {
+                    "nombre": "JavaScriptJS desde cero"
+                }
+            ],
+            "alumnos": [
+                {
+                    "nombre": "Yeimi Paola",
+                    "apellido": "Chirivi",
+                    "promedio": 9
+                },
+                {
+                    "nombre": "Paul",
+                    "apellido": "Parga",
+                    "promedio": 8
+                }
+            ],
+            "cursos": [
+                {
+                    "nombre": "NodeJS desde cero",
+                    "duracion": 7,
+                    "dificultad": "intermedio"
+                },
+                {
+                    "nombre": "ReacrJS desde cero",
+                    "duracion": 7,
+                    "dificultad": "avanzado"
+                },
+                {
+                    "nombre": "JavaScriptJS desde cero",
+                    "duracion": 7,
+                    "dificultad": "intermedio"
+                }
+            ]
+        }
+    ]
+}
